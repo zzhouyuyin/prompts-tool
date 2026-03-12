@@ -15,7 +15,7 @@ A collection of high-quality ChatGPT prompts for daily use
 2. 粘贴到 ChatGPT 对话框中
 3. 根据自己的需求修改括号内的内容
 ## 维护者
-[zzhouyuyin]
+zzhouyuyin
 ## 升级功能（V2.0）
 1. ✨ 分4大场景：编程辅助、文案创作、学习总结、职场办公
 2. ✨ 支持自定义参数填充（如指定编程语言、字数、受众）
